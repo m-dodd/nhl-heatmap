@@ -17,6 +17,8 @@ The first screenshot will show what an entire season of shots looks like. It als
 
 ![season-shots](/imgs/nhl-heatmap-season.png)
 
+## Player
+
 We all think we know how Ovechkin plays, but have you ever seen it visualized? It's quite startling and amazing. With this app we can visualize the shots and goals of any player in the 2018-2019 season.
 
 ![ovechkin](/imgs/nhl-heatmap-ovechkin.png)
