@@ -3,5 +3,3 @@
 Data Files are too large to be loaded to github.
 
 Original data can be downloaded from [Kaggle NHL](https://www.kaggle.com/martinellis/nhl-game-data).
-
-Please see ../src/clean_nhl_files.py
